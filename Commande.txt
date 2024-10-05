@@ -1,0 +1,16 @@
+Notre jeux ce nomme "Invasion". Le but est de faire le plus de dégâts, celui qui en as le moins à perdu. De même , si l'un des joueurs meurt, l'autre gagne la partie.
+Sois celui avec "le plus gros" score gagne.
+
+Les touches:
+Joueur 1 :
+	Gauche : "Q"
+	Droite : "D"
+	Haut : "Z"
+	Bas : "S"
+	Attaquer : "E"
+Joueur 2 :
+	Direction : "flèche directionnelle"
+	Attaquer : "shift"
+Pause : "Espace"
+
+ 
