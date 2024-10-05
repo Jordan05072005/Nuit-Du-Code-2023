@@ -21,3 +21,7 @@ Player 2 :
     attack : "shift"
 Break : "Space"
 
+# The Gameplay : 
+
+https://github.com/user-attachments/assets/fa04653f-1045-4d8d-9ca4-782d36e59a15
+
