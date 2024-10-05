@@ -2,11 +2,11 @@
 
 # What is "Nuit du Code"
 
-The "Nuit du Code" is a event for the students from middle school to high school who se together during 6 hour for coding a videogame on a given theme. This project had to be coding in Python with module Pygame and in unique folder. 
+"Nuit du Code" is an event for students from middle school to high school who work together during 6 hours in order to code a videogame on a given theme. This project had to be coded with Python on Pygame module and in a unique folder. 
 
 # What is our project?
 
-Our project is a videogame or the goal is to do the most damage and not die.
+Our game was intended to be a two players tower-defense like. In order to win, you have to collect more points than your partner, who's also your opponent.
 
 # The commande :
 
